@@ -2,10 +2,10 @@
 rusty cesar cipher cracker
 
 # USAGE:
-CrackaCipher cipher text words here.
+`CrackaCesar cipher text words here.`
 
 # Example:
-CrackaCesar Jr ubcr lbhe oht obhagl pnerre vf shyy bs ohtf naq tbyq
+`CrackaCesar Jr ubcr lbhe oht obhagl pnerre vf shyy bs ohtf naq tbyq`
 
 # How it works:
 It keeps a hashmap where every letter of the alphabet are the values, and their index is the key.
